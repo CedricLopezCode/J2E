@@ -1,0 +1,14 @@
+Exo1
+
+
+	Mettre en place une gestion des utilisateurs en commençant par 
+	la création de son compte dans la base de donnée "BlogJEE" dans la table "user" avec les attributs:
+		- nom
+		- prénom
+		- email
+		- mot de passe
+
+Afficher les messages en cas de:
+	succés: " Féliciation l'utlisateur Moussa Camara a été bien ajouté. " 
+	erreur: "Oups, erreur lors de la création de compte"
+

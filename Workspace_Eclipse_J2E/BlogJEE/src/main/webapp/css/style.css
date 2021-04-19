@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+	background: yellow;
+}
+span{
+	color: aqua;
+}
+
+form{
+	padding-bottom: 20px;
+}
+.formulaire_tableau{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	padding: 10px;
+}
+#form_connex, #form_inscrip {
+	display : flex;
+	flex-direction: column;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#form_inscrip h1, #form_connex h1{
+	font-weight: bold;
+	text-align: center;
+}
+#form_inscrip{
+	background: aqua;
+}
+#form_connex{
+	background: lime;
+}
+
+
+footer{
+	background: lightgray;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
